@@ -6,4 +6,5 @@ Petit script pour automatiser la vérif d'une dispo aux Grands Buffets de Narbon
 - Les ajouter au script
 - Ajouter une url apprise si utilisation via docker sinon personnaliser le script pour utiliser autre méthode de notif
 - Personnaliser les chemins
-- Le fichier CSV doit contenir des lignes au format AAAA-MM-DD;soir|midi;nb_personnes 
+- Le fichier CSV doit contenir des lignes au format AAAA-MM-DD;soir|midi;nb_personnes
+- Croner le script en reririgeant les logs dans un fichier
